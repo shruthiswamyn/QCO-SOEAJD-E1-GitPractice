@@ -6,5 +6,8 @@ public class Sample {
 	{
 		System.out.println("Hi");
 		System.out.println("Hi again");
+		
+		System.out.println("Adding new statement");
+		//trying to pull and then push commit.
 	}
 }
